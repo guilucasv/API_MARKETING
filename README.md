@@ -4,6 +4,10 @@ API para cadastro de anúncios para empresas em geral.
 
 ## 🚀 Começando
 
+-- POSTMAN:
+
+Na classe: Ferramenta de Testes das API' se encontra o link para entrar no time do Postman para melhor visualização do Endpoint.
+
 -- Banco de dados: 
 Para criação do banco de dados do projeto foi todo realizado em SQLITE3, pois o próprio framework do django nos disponibilza a partir da criação do projeto.
 
@@ -32,7 +36,10 @@ Neste arquivo se encontram os atributos da entidades que foram solicitadas no es
 
 
 [POSTAMAN](https://www.postman.com/)
-LINK: https://www.postman.com/restless-station-308925/workspace/lucas-projetos/overview
+
+LINK: Segue link do Time do POSTMAN (API - DJANGO PYTHON-TESTE INLINE ) para verificar o endpoint e testar os parâmetros solicitados.
+
+https://app.getpostman.com/join-team?invite_code=e6d28ce838b5b52a67f15feb6f700a74
 
 ## 📌 Versão
 
