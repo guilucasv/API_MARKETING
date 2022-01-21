@@ -35,7 +35,7 @@ Neste arquivo se encontram os atributos da entidades que foram solicitadas no es
 ## 🛠️ Ferramenta de Testes das API'
 
 
-[POSTAMAN](https://www.postman.com/)
+[POSTMAN](https://www.postman.com/)
 
 LINK: Segue link do Time do POSTMAN (API - DJANGO PYTHON-TESTE INLINE ) para verificar o endpoint e testar os parâmetros solicitados.
 
