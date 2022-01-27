@@ -23,6 +23,13 @@ Dentro da pasta marketing, que é justamente o nosso APP se encontram todas as m
 
 Neste arquivo se encontram os atributos da entidades que foram solicitadas no escopo do projeto, tais como nome da empresa, site, contatos, etc.
 
+Admin Django:
+
+Login: admin
+Senha: admin 
+
+- Finalidade de testes.
+
 
 ## 🛠️ Construído com
 
@@ -35,7 +42,7 @@ Neste arquivo se encontram os atributos da entidades que foram solicitadas no es
 ## 🛠️ Ferramenta de Testes das API'
 
 
-[POSTAMAN](https://www.postman.com/)
+[POSTMAN](https://www.postman.com/)
 
 LINK: Segue link do Time do POSTMAN (API - DJANGO PYTHON-TESTE INLINE ) para verificar o endpoint e testar os parâmetros solicitados.
 
