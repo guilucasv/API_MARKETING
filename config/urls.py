@@ -13,3 +13,7 @@ urlpatterns = [
     path('', include(router.urls)),
     path('', include(router.urls))
 ]
+
+admin.site.site_header = "InlineTech - Marketing"
+admin.site.site_title = "InlineTech - Marketing"
+admin.site.index_title = "Administração dos Anúncios"
